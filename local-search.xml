@@ -21,7 +21,7 @@
     <link href="/2021/06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2021/06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/.com//06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class title="This is an example image"><img src="/.com//06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class title="spaced title">]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章<br><img src="/images/test.png" alt="test"></p>]]></content>
     
     
     <categories>
